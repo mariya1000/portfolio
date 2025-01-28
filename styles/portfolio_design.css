@@ -55,7 +55,13 @@ nav{
     font-weight: bold;
     background-color: rgba(253, 110, 10, 1);
     padding: 18px 32px;
+    
     /* border: none; */
     border-radius: 5px;
     color: white;
+   
+}
+
+a{
+    text-decoration: none;
 }
