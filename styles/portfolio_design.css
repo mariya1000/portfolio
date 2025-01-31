@@ -122,3 +122,44 @@ a{
 }
 
 
+
+
+/* about me  */
+
+#about-me{
+    max-width: 827px;
+    margin: 131px auto;
+}
+
+.about-me{
+    color: #181818;
+    font-size: 35px;
+    font-weight: 800;
+    text-align: center;
+}
+.about-description{
+    font-size: 18px;
+    color: #757575;
+    text-align: center;
+}
+
+.about-details{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+
+.about-title{
+    font-size: 20px;
+    color: rgba(117, 117, 117, 1);
+    text-align: center;
+}
+
+.about-name{
+    font-size: 20px;
+    color: rgba(71, 71, 71, 1);
+    font-weight: 800;
+    text-align: center;
+}
+
